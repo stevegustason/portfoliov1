@@ -1,0 +1,55 @@
+body {
+  font-family: Montserrat;
+}
+
+.header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  z-index: 1000;
+  background-color: white;
+  border-bottom: solid black 1px;
+}
+
+.margin {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.about {
+  margin-top: 275px;
+  border-bottom: solid black 1px;
+}
+
+.headfoot {
+  background-color: #660000;
+}
+
+.maroon {
+  color: #660000;
+}
+
+.portfolio {
+  border-bottom: solid black 1px;
+}
+
+.padding {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.white {
+  color: white;
+}
+
+.anchor {
+    display: block;
+    position: relative;
+    top: -250px;
+    visibility: hidden;
+}
+
+a:hover {
+  color: black;
+}
